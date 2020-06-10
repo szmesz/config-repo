@@ -1,0 +1,7 @@
+my:
+  greetings: Hello Config Server!
+  list:
+    values: 1, 2, 3
+
+something:
+  else: something else here
